@@ -1,3 +1,33 @@
+This project was a great opportunity to learn and practice several key concepts in React and JavaScript. Here's a summary of what I learned:
+
+## React Hooks
+
+I learned how to use React Hooks, specifically `useState` and `useEffect`. `useState` is used to manage state in a functional component. I used it to manage the list of monsters, the search field input, and the filtered list of monsters.
+
+`useEffect` is used to perform side effects in function components. I used it to fetch data from an API and update the state when the list of monsters or the search field changes.
+
+## Fetch API
+
+I learned how to use the Fetch API to make HTTP requests. I used it to fetch a list of users from 'https://jsonplaceholder.typicode.com/users'. I learned how to handle the response and update the state with the data.
+
+## Array Methods
+
+I learned how to use the `filter` method to create a new array with all elements that pass a test implemented by the provided function. I used it to create a new array of monsters that includes the search field input.
+
+## Event Handling
+
+I learned how to handle events in React. I created an `onSearchChange` function that updates the search field state with the current input value.
+
+## JSX
+
+I learned how to use JSX to write HTML-like syntax in my React code. I used it to structure the components of my app.
+
+## CSS
+
+I learned how to import and use CSS in a React application to style the components.
+
+This project was a great learning experience and I look forward to applying these concepts in future projects.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
